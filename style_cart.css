@@ -349,7 +349,7 @@ table {
 	background: #EAF0ED url(images/mail-24px.png) no-repeat;
 	background-position: center left 20px;
 	text-indent: 48px;
-	border: none !important;
+	border: none;
 	outline: none;
 	font-size: 20px;
 }

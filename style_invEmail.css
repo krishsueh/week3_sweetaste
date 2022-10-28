@@ -185,7 +185,7 @@ table {
 	font-size: 20px;
 	color: #3F5D45;
 	background: #EAF0ED;
-	border: none !important;
+	border: none;
 	outline: none;
 	text-indent: 20px;
 }
@@ -323,7 +323,7 @@ table {
 	background: #EAF0ED url(images/mail-24px.png) no-repeat;
 	background-position: center left 20px;
 	text-indent: 48px;
-	border: none !important;
+	border: none;
 	outline: none;
 	font-size: 20px;
 }
