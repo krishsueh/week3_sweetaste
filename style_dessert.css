@@ -279,6 +279,7 @@ table {
 	border: none;
 	outline: none;
 	font-size: 20px;
+	border-radius: 0%;
 }
 @media (max-width: 767px) {
 	.mail-img {
