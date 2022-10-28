@@ -345,9 +345,7 @@ table {
 	border: none;
 	outline: none;
 	font-size: 20px;
-	appearance: none;
-	-webkit-appearance: none;
-	-moz-appearance: none; 
+	border-radius: 0%;
 }
 @media (max-width: 767px) {
 	.mail-img {
